@@ -21,7 +21,7 @@ To get started with this project, you will need to have the following installed 
 * JDK 17+
 * Maven 3+
 
-
+## Change Database Configuration as per your Setup
 To build and run the project, follow these steps:
 
 * Clone the repository: `git clone https://github.com/PratapSingh-lang/User-Management-Spring-Security.git`
