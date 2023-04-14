@@ -24,7 +24,7 @@ To get started with this project, you will need to have the following installed 
 
 To build and run the project, follow these steps:
 
-* Clone the repository: `git clone https://github.com/PratapSingh-lang/final-jwt.git`
+* Clone the repository: `git clone https://github.com/PratapSingh-lang/User-Management-Spring-Security.git`
 * Navigate to the project directory: cd spring-boot-security-jwt
 * Build the project: mvn clean install
 * Run the project: mvn spring-boot:run 
